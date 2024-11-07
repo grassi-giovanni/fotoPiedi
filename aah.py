@@ -12,5 +12,3 @@ while True:
     # Aggiungi il numero alla somma
     somma += numero
 
-# Stampa la somma totale
-print(f"La somma dei numeri inseriti è: {somma}")
